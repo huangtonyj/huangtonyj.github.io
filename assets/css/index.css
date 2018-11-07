@@ -21,3 +21,14 @@ video {
   width: 30px;
   height: 30px;
 }
+
+.inner {
+  /* position: fixed; */
+  /* bottom: 0; */
+  background: rgba(0, 0, 0, 0.65);
+  color: #f1f1f1;
+  width: 30%;
+  padding: 20px;
+  /* justify-self: center; */
+  margin: 0 auto;
+}
