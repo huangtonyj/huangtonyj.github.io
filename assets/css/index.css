@@ -12,3 +12,12 @@ video {
   padding: 35px;
   color: blue;
 }
+
+#footer li a{
+  border: 1px solid white;
+  border-radius: 100%;
+  margin: 5px;
+  padding: 13px 10px 7px 10px;
+  width: 30px;
+  height: 30px;
+}
