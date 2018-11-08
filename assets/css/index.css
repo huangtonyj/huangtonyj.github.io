@@ -1,4 +1,4 @@
-video {
+#header-video {
   position: absolute;
   width: 100%;
   z-index: -1;
@@ -28,4 +28,9 @@ i:hover{
 
 .major-icons {
   margin: 0 auto;
+}
+
+#projects video {
+  max-width: 100%;
+  max-height: 100%;
 }
