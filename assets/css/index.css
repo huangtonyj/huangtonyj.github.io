@@ -30,6 +30,8 @@ i:hover{
 
 .major-icons {
   margin: 0 auto;
+  background: rgba(250, 250, 250, 0.10);
+  border-radius: 10px;
 }
 
 #projects video {
